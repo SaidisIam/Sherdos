@@ -12,8 +12,8 @@
 <img height="50%" width="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaidisIam&show_icons=true&count_private=true&theme=sea-dark&hide_border=true&bg_color=00000000&locale=en&layout=compact" alt="almazxx" />
 
 
-<img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=SaidisIam&show_icons=true&&count_private=true&theme=sea-dark&hide_border=true&bg_color=00000000&hide=issues,contribs&locale=en" alt="almazxx" />
-<img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaidisIam&show_icons=true&count_private=true&theme=sea-dark&hide_border=true&bg_color=00000000&locale=en&layout=compact" alt="almazxx" />
+<img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=SaidisIam&show_icons=true&&count_private=true&theme=light&hide_border=true&bg_color=00000000&hide=issues,contribs&locale=en" alt="almazxx" />
+<img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaidisIam&show_icons=true&count_private=true&theme=light&hide_border=true&bg_color=00000000&locale=en&layout=compact" alt="almazxx" />
 
 </p>
 
