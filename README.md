@@ -2,9 +2,9 @@
 - 👀 I’m interested in Python, Linux, PostgreSQL, Docker, Django, FastAPI, SqlAlchemy, Pytest
 - <a href="https://t.me/Sherdos26">Telegram</a>
 <p align="left">
-<img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=Sherdos&show_icons=true&&count_private=true&theme=github&hide_border=true&bg_color=00000000&hide=issues,contribs&locale=en" alt="almazxx" />
+<img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=SaidisIam&show_icons=true&&count_private=true&theme=github&hide_border=true&bg_color=00000000&hide=issues,contribs&locale=en" alt="almazxx" />
 
-<img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sherdos&show_icons=true&count_private=true&theme=github&hide_border=true&bg_color=00000000&locale=en&layout=compact" alt="almazxx" />
+<img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaidisIam&show_icons=true&count_private=true&theme=github&hide_border=true&bg_color=00000000&locale=en&layout=compact" alt="almazxx" />
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SaidisIam&theme=sea-dark)](https://git.io/streak-stats)
