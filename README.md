@@ -8,3 +8,4 @@
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SaidisIam&theme=icegray&date_format=M%20j%5B%2C%20Y%5D&card_width=695)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SaidisIam&theme=sea-dark&date_format=M%20j%5B%2C%20Y%5D&card_width=695)](https://git.io/streak-stats)
