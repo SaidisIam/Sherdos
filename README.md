@@ -7,7 +7,7 @@
 <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaidisIam&show_icons=true&count_private=true&theme=github&hide_border=true&bg_color=00000000&locale=en&layout=compact" alt="almazxx" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SaidisIam&theme=sea-dark&date_format=M%20j%5B%2C%20Y%5D&card_width=760)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SaidisIam&theme=sea-dark&date_format=M%20j%5B%2C%20Y%5D&card_width=750)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=SaidisIam&theme=icegray&date_format=M%20j%5B%2C%20Y%5D&card_width=695)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=SaidisIam&theme=dark-smoky&date_format=M%20j%5B%2C%20Y%5D&card_width=895)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=SaidisIam&theme=sea-dark&date_format=M%20j%5B%2C%20Y%5D&card_width=895)](https://git.io/streak-stats)
